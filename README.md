@@ -1,5 +1,10 @@
 # Mainxx.CsOutput
 这是一个执行C#源码工具，无需构建你的页面。
+
+# Nuget Install
+- pm> Install-Package Mainxx.CsOutput
+- [Nuget链接](https://www.nuget.org/packages/Mainxx.CsOutput)
+
 ```
 public class RunMe
 {
