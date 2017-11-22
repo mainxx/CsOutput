@@ -1,0 +1,1 @@
+nuget pack ../src/Mainxx.CsOutput/Mainxx.CsOutput.csproj

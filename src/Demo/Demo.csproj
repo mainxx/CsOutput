@@ -33,8 +33,8 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Mainxx.CsOutput, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Mainxx.CsOutput.1.0.0\lib\net40\Mainxx.CsOutput.dll</HintPath>
+    <Reference Include="Mainxx.CsOutput, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Mainxx.CsOutput.1.0.1\lib\net40\Mainxx.CsOutput.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

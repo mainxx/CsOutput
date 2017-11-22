@@ -6,8 +6,10 @@
     <title>$title$</title>
     <authors>Joven.Mainxx</authors>
     <owners>joven</owners>
+    <licenseUrl>https://github.com/mainxx/CsOutput/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mainxx/CsOutput</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>这是执行C#代码工具</description>
+    <description>这是执行C#代码工具,Github：https://github.com/mainxx/CsOutput </description>
     <releaseNotes>第一个版本,作者比较懒,可能是最后一个,可能觉得没什么用.</releaseNotes>
     <copyright>joven@Mainxx.com</copyright>
     <tags>Cs CsOutput C# SourceRun Run .net tools</tags>
